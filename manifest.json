@@ -9,7 +9,7 @@
   },
   "connectors": {},
   "icon": "https://flippflopp89.github.io/trello-grid-powerup/weekly-grid-icon.png",
-  "url": "https://flippflopp89.github.io/trello-grid-powerup/index.html",
+  "url": "https://flippflopp89.github.io/trello-grid-powerup",
   "id": "grid.powerup",
   "api": {
     "sandbox": false
