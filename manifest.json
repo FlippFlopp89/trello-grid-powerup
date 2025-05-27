@@ -1,0 +1,17 @@
+{
+  "name": "Weekly Grid Planner",
+  "description": "Custom team and week grid view.",
+  "author": "You",
+  "capabilities": {
+    "board-buttons": {
+      "enabled": true
+    }
+  },
+  "connectors": {},
+  "icon": "https://cdn-icons-png.flaticon.com/512/61/61456.png",
+  "url": "https://yourdomain.com",
+  "id": "grid.powerup",
+  "api": {
+    "sandbox": false
+  }
+}
